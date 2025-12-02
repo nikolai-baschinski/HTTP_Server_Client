@@ -15,5 +15,7 @@ int main(void) {
     cout << "error code: " << res.error() << std::endl;
   }
 
+  cin.get();
+
   return 0;
 }
